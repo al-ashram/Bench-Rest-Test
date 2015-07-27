@@ -22,7 +22,10 @@ Returns a list of transactions as well as a totalBalance, totalCount, and page n
 Additional Features
 After building the app your can create extra functionality based on the following stories:
 
-As a user, I need vendor names to be easily readable. Make the vendor names more readable, remove garbage from names.
-As a user, I do not want to have any duplicated transactions in the list. Use the data provided to detect and identify duplicate transactions.
-As a user, I need to get a list expense categories. For each category I need a list of transactions, and the total expenses for that category.
-As a user, I need to calculate daily calculated balances. A running total for each day. For example, if I have 3 transactions for the 5th 6th 7th, each for $5, then the daily balance on the 6th would be $10.
+1.As a user, I need vendor names to be easily readable. Make the vendor names more readable, remove garbage from names.
+
+2.As a user, I do not want to have any duplicated transactions in the list. Use the data provided to detect and identify duplicate transactions.
+
+3.As a user, I need to get a list expense categories. For each category I need a list of transactions, and the total expenses for that category.
+
+4.As a user, I need to calculate daily calculated balances. A running total for each day. For example, if I have 3 transactions for the 5th 6th 7th, each for $5, then the daily balance on the 6th would be $10.
